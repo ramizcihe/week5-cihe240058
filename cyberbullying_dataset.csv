@@ -1,0 +1,1001 @@
+id,text,label,binary_label
+1,"Look at your face, disgusting.",appearance,bullying
+2,Your faith makes no sense at all.,religion,bullying
+3,Stop acting superior just because of your race.,ethnicity,bullying
+4,Have a great day ahead!,not_cyberbullying,not_cyberbullying
+5,Nobody cares about your opinion.,other_cyberbullying,bullying
+6,No one wants your kind here.,ethnicity,bullying
+7,"You’re too old for this app, grandpa.",age,bullying
+8,People like you should not be allowed here.,religion,bullying
+9,"Stop posting nonsense, nobody likes you.",other_cyberbullying,bullying
+10,People like you should not be allowed here.,religion,bullying
+11,"You’re such a loser, go away.",other_cyberbullying,bullying
+12,No one wants your kind here.,ethnicity,bullying
+13,"You play like trash, no skills at all.",other_cyberbullying,bullying
+14,People like you ruin this nation.,ethnicity,bullying
+15,Stop acting superior just because of your race.,ethnicity,bullying
+16,Your faith makes no sense at all.,religion,bullying
+17,No guy would ever want you.,gender,bullying
+18,We don’t want your religious nonsense.,religion,bullying
+19,"No wonder you’re alone, you’re hideous.",appearance,bullying
+20,People like you should not be allowed here.,religion,bullying
+21,"You’re so ugly, nobody likes you.",appearance,bullying
+22,Nobody listens to old people anymore.,age,bullying
+23,You’re fat and gross.,appearance,bullying
+24,You’re fat and gross.,appearance,bullying
+25,"Go back to your country, you don’t belong here.",ethnicity,bullying
+26,Stop acting superior just because of your race.,ethnicity,bullying
+27,"Look at your face, disgusting.",appearance,bullying
+28,You’re fat and gross.,appearance,bullying
+29,"You throw like a girl, pathetic.",gender,bullying
+30,"No wonder you’re alone, you’re hideous.",appearance,bullying
+31,Good morning everyone! Stay positive today 😊,not_cyberbullying,not_cyberbullying
+32,Kids these days are so dumb.,age,bullying
+33,"Go back to your country, you don’t belong here.",ethnicity,bullying
+34,Good morning everyone! Stay positive today 😊,not_cyberbullying,not_cyberbullying
+35,"I love this new song, it's so catchy.",not_cyberbullying,not_cyberbullying
+36,Stop acting superior just because of your race.,ethnicity,bullying
+37,No guy would ever want you.,gender,bullying
+38,"You’re such a loser, go away.",other_cyberbullying,bullying
+39,"Men are always stronger, you’re weak.",gender,bullying
+40,"Go back to your country, you don’t belong here.",ethnicity,bullying
+41,"I love this new song, it's so catchy.",not_cyberbullying,not_cyberbullying
+42,"You’re such a loser, go away.",other_cyberbullying,bullying
+43,Nobody listens to old people anymore.,age,bullying
+44,No one wants your kind here.,ethnicity,bullying
+45,You’re fat and gross.,appearance,bullying
+46,"I love this new song, it's so catchy.",not_cyberbullying,not_cyberbullying
+47,Stop acting superior just because of your race.,ethnicity,bullying
+48,Girls don’t belong in tech.,gender,bullying
+49,Nobody listens to old people anymore.,age,bullying
+50,Girls don’t belong in tech.,gender,bullying
+51,Your religion is a joke.,religion,bullying
+52,"Go play with your toys, child.",age,bullying
+53,People like you should not be allowed here.,religion,bullying
+54,Have a great day ahead!,not_cyberbullying,not_cyberbullying
+55,"That movie was amazing, I highly recommend it.",not_cyberbullying,not_cyberbullying
+56,"You’re such a loser, go away.",other_cyberbullying,bullying
+57,Girls don’t belong in tech.,gender,bullying
+58,"No wonder you’re alone, you’re hideous.",appearance,bullying
+59,People like you should not be allowed here.,religion,bullying
+60,"You’re so ugly, nobody likes you.",appearance,bullying
+61,"You speak funny, learn proper English.",ethnicity,bullying
+62,"You’re ancient, stop embarrassing yourself.",age,bullying
+63,Girls don’t belong in tech.,gender,bullying
+64,No guy would ever want you.,gender,bullying
+65,Good morning everyone! Stay positive today 😊,not_cyberbullying,not_cyberbullying
+66,People like you ruin this nation.,ethnicity,bullying
+67,"You play like trash, no skills at all.",other_cyberbullying,bullying
+68,We don’t want your religious nonsense.,religion,bullying
+69,Nobody listens to old people anymore.,age,bullying
+70,"Men are always stronger, you’re weak.",gender,bullying
+71,No one wants your kind here.,ethnicity,bullying
+72,We don’t want your religious nonsense.,religion,bullying
+73,"No wonder you’re alone, you’re hideous.",appearance,bullying
+74,"You’re ancient, stop embarrassing yourself.",age,bullying
+75,"Stop posting nonsense, nobody likes you.",other_cyberbullying,bullying
+76,People like you ruin this nation.,ethnicity,bullying
+77,"You speak funny, learn proper English.",ethnicity,bullying
+78,"You’re ancient, stop embarrassing yourself.",age,bullying
+79,We don’t want your religious nonsense.,religion,bullying
+80,"You’re such a loser, go away.",other_cyberbullying,bullying
+81,Stop acting superior just because of your race.,ethnicity,bullying
+82,Nobody cares about your opinion.,other_cyberbullying,bullying
+83,"Look at your face, disgusting.",appearance,bullying
+84,No one wants your kind here.,ethnicity,bullying
+85,"You play like trash, no skills at all.",other_cyberbullying,bullying
+86,"Women can’t play this game, go to the kitchen.",gender,bullying
+87,Good morning everyone! Stay positive today 😊,not_cyberbullying,not_cyberbullying
+88,You’re the dumbest person I’ve ever met.,other_cyberbullying,bullying
+89,Girls don’t belong in tech.,gender,bullying
+90,"Women can’t play this game, go to the kitchen.",gender,bullying
+91,"Women can’t play this game, go to the kitchen.",gender,bullying
+92,People like you should not be allowed here.,religion,bullying
+93,Have a great day ahead!,not_cyberbullying,not_cyberbullying
+94,Your style is trash.,appearance,bullying
+95,"Go play with your toys, child.",age,bullying
+96,"Congrats on your promotion, well deserved!",not_cyberbullying,not_cyberbullying
+97,"You speak funny, learn proper English.",ethnicity,bullying
+98,Good morning everyone! Stay positive today 😊,not_cyberbullying,not_cyberbullying
+99,You’re the dumbest person I’ve ever met.,other_cyberbullying,bullying
+100,People like you ruin this nation.,ethnicity,bullying
+101,"Stop posting nonsense, nobody likes you.",other_cyberbullying,bullying
+102,Kids these days are so dumb.,age,bullying
+103,Kids these days are so dumb.,age,bullying
+104,Have a great day ahead!,not_cyberbullying,not_cyberbullying
+105,"Women can’t play this game, go to the kitchen.",gender,bullying
+106,"Go back to your country, you don’t belong here.",ethnicity,bullying
+107,"You throw like a girl, pathetic.",gender,bullying
+108,"Stop posting nonsense, nobody likes you.",other_cyberbullying,bullying
+109,Have a great day ahead!,not_cyberbullying,not_cyberbullying
+110,Nobody cares about your opinion.,other_cyberbullying,bullying
+111,Nobody listens to old people anymore.,age,bullying
+112,Nobody listens to old people anymore.,age,bullying
+113,"You throw like a girl, pathetic.",gender,bullying
+114,"I love this new song, it's so catchy.",not_cyberbullying,not_cyberbullying
+115,"Men are always stronger, you’re weak.",gender,bullying
+116,You’re fat and gross.,appearance,bullying
+117,"You’re so ugly, nobody likes you.",appearance,bullying
+118,No guy would ever want you.,gender,bullying
+119,Stop acting superior just because of your race.,ethnicity,bullying
+120,"Look at your face, disgusting.",appearance,bullying
+121,Kids these days are so dumb.,age,bullying
+122,"Congrats on your promotion, well deserved!",not_cyberbullying,not_cyberbullying
+123,"No wonder you’re alone, you’re hideous.",appearance,bullying
+124,No guy would ever want you.,gender,bullying
+125,"You’re ancient, stop embarrassing yourself.",age,bullying
+126,No guy would ever want you.,gender,bullying
+127,"Look at your face, disgusting.",appearance,bullying
+128,"Men are always stronger, you’re weak.",gender,bullying
+129,"Women can’t play this game, go to the kitchen.",gender,bullying
+130,Your style is trash.,appearance,bullying
+131,"I love this new song, it's so catchy.",not_cyberbullying,not_cyberbullying
+132,"Go back to your country, you don’t belong here.",ethnicity,bullying
+133,"No wonder you’re alone, you’re hideous.",appearance,bullying
+134,"Stop spreading your beliefs, nobody cares.",religion,bullying
+135,You’re the dumbest person I’ve ever met.,other_cyberbullying,bullying
+136,You’re the dumbest person I’ve ever met.,other_cyberbullying,bullying
+137,"That movie was amazing, I highly recommend it.",not_cyberbullying,not_cyberbullying
+138,"You’re ancient, stop embarrassing yourself.",age,bullying
+139,Your faith makes no sense at all.,religion,bullying
+140,"Congrats on your promotion, well deserved!",not_cyberbullying,not_cyberbullying
+141,"You speak funny, learn proper English.",ethnicity,bullying
+142,"You play like trash, no skills at all.",other_cyberbullying,bullying
+143,"You speak funny, learn proper English.",ethnicity,bullying
+144,Your style is trash.,appearance,bullying
+145,"I love this new song, it's so catchy.",not_cyberbullying,not_cyberbullying
+146,"Look at your face, disgusting.",appearance,bullying
+147,"You’re so ugly, nobody likes you.",appearance,bullying
+148,"You’re so ugly, nobody likes you.",appearance,bullying
+149,No guy would ever want you.,gender,bullying
+150,Kids these days are so dumb.,age,bullying
+151,No guy would ever want you.,gender,bullying
+152,"Look at your face, disgusting.",appearance,bullying
+153,No one wants your kind here.,ethnicity,bullying
+154,No guy would ever want you.,gender,bullying
+155,"Congrats on your promotion, well deserved!",not_cyberbullying,not_cyberbullying
+156,"That movie was amazing, I highly recommend it.",not_cyberbullying,not_cyberbullying
+157,"Stop spreading your beliefs, nobody cares.",religion,bullying
+158,We don’t want your religious nonsense.,religion,bullying
+159,"Go back to your country, you don’t belong here.",ethnicity,bullying
+160,"Stop posting nonsense, nobody likes you.",other_cyberbullying,bullying
+161,"You’re so ugly, nobody likes you.",appearance,bullying
+162,"You speak funny, learn proper English.",ethnicity,bullying
+163,"Men are always stronger, you’re weak.",gender,bullying
+164,"You’re such a loser, go away.",other_cyberbullying,bullying
+165,Nobody listens to old people anymore.,age,bullying
+166,No one wants your kind here.,ethnicity,bullying
+167,Have a great day ahead!,not_cyberbullying,not_cyberbullying
+168,Your style is trash.,appearance,bullying
+169,Good morning everyone! Stay positive today 😊,not_cyberbullying,not_cyberbullying
+170,"Go back to your country, you don’t belong here.",ethnicity,bullying
+171,"Stop spreading your beliefs, nobody cares.",religion,bullying
+172,"Go play with your toys, child.",age,bullying
+173,"Stop spreading your beliefs, nobody cares.",religion,bullying
+174,Have a great day ahead!,not_cyberbullying,not_cyberbullying
+175,"You’re too old for this app, grandpa.",age,bullying
+176,"You’re such a loser, go away.",other_cyberbullying,bullying
+177,People like you should not be allowed here.,religion,bullying
+178,"No wonder you’re alone, you’re hideous.",appearance,bullying
+179,Kids these days are so dumb.,age,bullying
+180,Your religion is a joke.,religion,bullying
+181,"You’re too old for this app, grandpa.",age,bullying
+182,"I love this new song, it's so catchy.",not_cyberbullying,not_cyberbullying
+183,"Stop posting nonsense, nobody likes you.",other_cyberbullying,bullying
+184,Your style is trash.,appearance,bullying
+185,"You’re too old for this app, grandpa.",age,bullying
+186,"Stop posting nonsense, nobody likes you.",other_cyberbullying,bullying
+187,Kids these days are so dumb.,age,bullying
+188,"You throw like a girl, pathetic.",gender,bullying
+189,We don’t want your religious nonsense.,religion,bullying
+190,"Congrats on your promotion, well deserved!",not_cyberbullying,not_cyberbullying
+191,Your faith makes no sense at all.,religion,bullying
+192,You’re fat and gross.,appearance,bullying
+193,"Look at your face, disgusting.",appearance,bullying
+194,People like you ruin this nation.,ethnicity,bullying
+195,"Stop spreading your beliefs, nobody cares.",religion,bullying
+196,People like you should not be allowed here.,religion,bullying
+197,"That movie was amazing, I highly recommend it.",not_cyberbullying,not_cyberbullying
+198,People like you ruin this nation.,ethnicity,bullying
+199,You’re the dumbest person I’ve ever met.,other_cyberbullying,bullying
+200,"You’re ancient, stop embarrassing yourself.",age,bullying
+201,"Go back to your country, you don’t belong here.",ethnicity,bullying
+202,Have a great day ahead!,not_cyberbullying,not_cyberbullying
+203,"You speak funny, learn proper English.",ethnicity,bullying
+204,"Men are always stronger, you’re weak.",gender,bullying
+205,"Stop posting nonsense, nobody likes you.",other_cyberbullying,bullying
+206,"I love this new song, it's so catchy.",not_cyberbullying,not_cyberbullying
+207,Your religion is a joke.,religion,bullying
+208,Your style is trash.,appearance,bullying
+209,Stop acting superior just because of your race.,ethnicity,bullying
+210,Nobody cares about your opinion.,other_cyberbullying,bullying
+211,Nobody cares about your opinion.,other_cyberbullying,bullying
+212,"I love this new song, it's so catchy.",not_cyberbullying,not_cyberbullying
+213,"You speak funny, learn proper English.",ethnicity,bullying
+214,People like you ruin this nation.,ethnicity,bullying
+215,"I love this new song, it's so catchy.",not_cyberbullying,not_cyberbullying
+216,We don’t want your religious nonsense.,religion,bullying
+217,You’re the dumbest person I’ve ever met.,other_cyberbullying,bullying
+218,"Go play with your toys, child.",age,bullying
+219,You’re fat and gross.,appearance,bullying
+220,"You’re too old for this app, grandpa.",age,bullying
+221,"You’re so ugly, nobody likes you.",appearance,bullying
+222,"Men are always stronger, you’re weak.",gender,bullying
+223,Stop acting superior just because of your race.,ethnicity,bullying
+224,Your faith makes no sense at all.,religion,bullying
+225,"I love this new song, it's so catchy.",not_cyberbullying,not_cyberbullying
+226,Nobody cares about your opinion.,other_cyberbullying,bullying
+227,No guy would ever want you.,gender,bullying
+228,"You speak funny, learn proper English.",ethnicity,bullying
+229,Stop acting superior just because of your race.,ethnicity,bullying
+230,You’re fat and gross.,appearance,bullying
+231,Stop acting superior just because of your race.,ethnicity,bullying
+232,"Go play with your toys, child.",age,bullying
+233,"Stop posting nonsense, nobody likes you.",other_cyberbullying,bullying
+234,"Stop spreading your beliefs, nobody cares.",religion,bullying
+235,"You throw like a girl, pathetic.",gender,bullying
+236,"You’re such a loser, go away.",other_cyberbullying,bullying
+237,"Go back to your country, you don’t belong here.",ethnicity,bullying
+238,"That movie was amazing, I highly recommend it.",not_cyberbullying,not_cyberbullying
+239,"Stop posting nonsense, nobody likes you.",other_cyberbullying,bullying
+240,No one wants your kind here.,ethnicity,bullying
+241,People like you ruin this nation.,ethnicity,bullying
+242,"You’re ancient, stop embarrassing yourself.",age,bullying
+243,"Men are always stronger, you’re weak.",gender,bullying
+244,"That movie was amazing, I highly recommend it.",not_cyberbullying,not_cyberbullying
+245,"I love this new song, it's so catchy.",not_cyberbullying,not_cyberbullying
+246,"You’re so ugly, nobody likes you.",appearance,bullying
+247,"Congrats on your promotion, well deserved!",not_cyberbullying,not_cyberbullying
+248,"You speak funny, learn proper English.",ethnicity,bullying
+249,"No wonder you’re alone, you’re hideous.",appearance,bullying
+250,"Congrats on your promotion, well deserved!",not_cyberbullying,not_cyberbullying
+251,"You speak funny, learn proper English.",ethnicity,bullying
+252,We don’t want your religious nonsense.,religion,bullying
+253,"Go play with your toys, child.",age,bullying
+254,"Stop posting nonsense, nobody likes you.",other_cyberbullying,bullying
+255,People like you ruin this nation.,ethnicity,bullying
+256,You’re fat and gross.,appearance,bullying
+257,"Go play with your toys, child.",age,bullying
+258,Girls don’t belong in tech.,gender,bullying
+259,"You’re such a loser, go away.",other_cyberbullying,bullying
+260,Nobody cares about your opinion.,other_cyberbullying,bullying
+261,"I love this new song, it's so catchy.",not_cyberbullying,not_cyberbullying
+262,"Stop spreading your beliefs, nobody cares.",religion,bullying
+263,Nobody listens to old people anymore.,age,bullying
+264,Nobody listens to old people anymore.,age,bullying
+265,People like you should not be allowed here.,religion,bullying
+266,"You’re so ugly, nobody likes you.",appearance,bullying
+267,"Go back to your country, you don’t belong here.",ethnicity,bullying
+268,"Men are always stronger, you’re weak.",gender,bullying
+269,"You’re too old for this app, grandpa.",age,bullying
+270,"You’re such a loser, go away.",other_cyberbullying,bullying
+271,"Go play with your toys, child.",age,bullying
+272,You’re fat and gross.,appearance,bullying
+273,Nobody cares about your opinion.,other_cyberbullying,bullying
+274,You’re the dumbest person I’ve ever met.,other_cyberbullying,bullying
+275,"You’re ancient, stop embarrassing yourself.",age,bullying
+276,People like you should not be allowed here.,religion,bullying
+277,"I love this new song, it's so catchy.",not_cyberbullying,not_cyberbullying
+278,Your religion is a joke.,religion,bullying
+279,Your religion is a joke.,religion,bullying
+280,"Stop posting nonsense, nobody likes you.",other_cyberbullying,bullying
+281,"You’re such a loser, go away.",other_cyberbullying,bullying
+282,Kids these days are so dumb.,age,bullying
+283,"Go play with your toys, child.",age,bullying
+284,No guy would ever want you.,gender,bullying
+285,Your faith makes no sense at all.,religion,bullying
+286,"You’re too old for this app, grandpa.",age,bullying
+287,People like you ruin this nation.,ethnicity,bullying
+288,You’re the dumbest person I’ve ever met.,other_cyberbullying,bullying
+289,"You’re too old for this app, grandpa.",age,bullying
+290,We don’t want your religious nonsense.,religion,bullying
+291,Have a great day ahead!,not_cyberbullying,not_cyberbullying
+292,Kids these days are so dumb.,age,bullying
+293,No guy would ever want you.,gender,bullying
+294,"Look at your face, disgusting.",appearance,bullying
+295,"No wonder you’re alone, you’re hideous.",appearance,bullying
+296,"You’re such a loser, go away.",other_cyberbullying,bullying
+297,"Go back to your country, you don’t belong here.",ethnicity,bullying
+298,Girls don’t belong in tech.,gender,bullying
+299,"You’re such a loser, go away.",other_cyberbullying,bullying
+300,"Go back to your country, you don’t belong here.",ethnicity,bullying
+301,"Women can’t play this game, go to the kitchen.",gender,bullying
+302,"You throw like a girl, pathetic.",gender,bullying
+303,"No wonder you’re alone, you’re hideous.",appearance,bullying
+304,"Stop posting nonsense, nobody likes you.",other_cyberbullying,bullying
+305,You’re the dumbest person I’ve ever met.,other_cyberbullying,bullying
+306,Stop acting superior just because of your race.,ethnicity,bullying
+307,Stop acting superior just because of your race.,ethnicity,bullying
+308,Kids these days are so dumb.,age,bullying
+309,"That movie was amazing, I highly recommend it.",not_cyberbullying,not_cyberbullying
+310,Girls don’t belong in tech.,gender,bullying
+311,"Go back to your country, you don’t belong here.",ethnicity,bullying
+312,Have a great day ahead!,not_cyberbullying,not_cyberbullying
+313,"Go play with your toys, child.",age,bullying
+314,"Women can’t play this game, go to the kitchen.",gender,bullying
+315,People like you ruin this nation.,ethnicity,bullying
+316,No guy would ever want you.,gender,bullying
+317,We don’t want your religious nonsense.,religion,bullying
+318,"You’re such a loser, go away.",other_cyberbullying,bullying
+319,"Stop posting nonsense, nobody likes you.",other_cyberbullying,bullying
+320,"Women can’t play this game, go to the kitchen.",gender,bullying
+321,Girls don’t belong in tech.,gender,bullying
+322,Stop acting superior just because of your race.,ethnicity,bullying
+323,"Congrats on your promotion, well deserved!",not_cyberbullying,not_cyberbullying
+324,"Stop spreading your beliefs, nobody cares.",religion,bullying
+325,"You’re so ugly, nobody likes you.",appearance,bullying
+326,No one wants your kind here.,ethnicity,bullying
+327,Your faith makes no sense at all.,religion,bullying
+328,"Congrats on your promotion, well deserved!",not_cyberbullying,not_cyberbullying
+329,Your religion is a joke.,religion,bullying
+330,Girls don’t belong in tech.,gender,bullying
+331,"That movie was amazing, I highly recommend it.",not_cyberbullying,not_cyberbullying
+332,Girls don’t belong in tech.,gender,bullying
+333,"Congrats on your promotion, well deserved!",not_cyberbullying,not_cyberbullying
+334,People like you ruin this nation.,ethnicity,bullying
+335,"You throw like a girl, pathetic.",gender,bullying
+336,Stop acting superior just because of your race.,ethnicity,bullying
+337,People like you should not be allowed here.,religion,bullying
+338,"You’re such a loser, go away.",other_cyberbullying,bullying
+339,Your style is trash.,appearance,bullying
+340,Nobody cares about your opinion.,other_cyberbullying,bullying
+341,"Men are always stronger, you’re weak.",gender,bullying
+342,Your style is trash.,appearance,bullying
+343,"Go back to your country, you don’t belong here.",ethnicity,bullying
+344,"You throw like a girl, pathetic.",gender,bullying
+345,People like you should not be allowed here.,religion,bullying
+346,"Stop posting nonsense, nobody likes you.",other_cyberbullying,bullying
+347,"Congrats on your promotion, well deserved!",not_cyberbullying,not_cyberbullying
+348,"You’re so ugly, nobody likes you.",appearance,bullying
+349,"You’re ancient, stop embarrassing yourself.",age,bullying
+350,"Congrats on your promotion, well deserved!",not_cyberbullying,not_cyberbullying
+351,Your style is trash.,appearance,bullying
+352,"Look at your face, disgusting.",appearance,bullying
+353,People like you should not be allowed here.,religion,bullying
+354,Your religion is a joke.,religion,bullying
+355,"You’re such a loser, go away.",other_cyberbullying,bullying
+356,Your religion is a joke.,religion,bullying
+357,"You’re ancient, stop embarrassing yourself.",age,bullying
+358,"You throw like a girl, pathetic.",gender,bullying
+359,Kids these days are so dumb.,age,bullying
+360,Nobody cares about your opinion.,other_cyberbullying,bullying
+361,Nobody listens to old people anymore.,age,bullying
+362,Nobody cares about your opinion.,other_cyberbullying,bullying
+363,Good morning everyone! Stay positive today 😊,not_cyberbullying,not_cyberbullying
+364,Girls don’t belong in tech.,gender,bullying
+365,Have a great day ahead!,not_cyberbullying,not_cyberbullying
+366,"Congrats on your promotion, well deserved!",not_cyberbullying,not_cyberbullying
+367,Stop acting superior just because of your race.,ethnicity,bullying
+368,"You’re too old for this app, grandpa.",age,bullying
+369,"You throw like a girl, pathetic.",gender,bullying
+370,"Look at your face, disgusting.",appearance,bullying
+371,"Men are always stronger, you’re weak.",gender,bullying
+372,"You’re such a loser, go away.",other_cyberbullying,bullying
+373,"I love this new song, it's so catchy.",not_cyberbullying,not_cyberbullying
+374,"Congrats on your promotion, well deserved!",not_cyberbullying,not_cyberbullying
+375,"You’re so ugly, nobody likes you.",appearance,bullying
+376,"Stop posting nonsense, nobody likes you.",other_cyberbullying,bullying
+377,"Men are always stronger, you’re weak.",gender,bullying
+378,"You’re too old for this app, grandpa.",age,bullying
+379,"No wonder you’re alone, you’re hideous.",appearance,bullying
+380,"No wonder you’re alone, you’re hideous.",appearance,bullying
+381,We don’t want your religious nonsense.,religion,bullying
+382,"Look at your face, disgusting.",appearance,bullying
+383,Girls don’t belong in tech.,gender,bullying
+384,"Women can’t play this game, go to the kitchen.",gender,bullying
+385,"Go play with your toys, child.",age,bullying
+386,"Look at your face, disgusting.",appearance,bullying
+387,Nobody listens to old people anymore.,age,bullying
+388,You’re fat and gross.,appearance,bullying
+389,"Men are always stronger, you’re weak.",gender,bullying
+390,"Go back to your country, you don’t belong here.",ethnicity,bullying
+391,"Women can’t play this game, go to the kitchen.",gender,bullying
+392,"Go play with your toys, child.",age,bullying
+393,"You throw like a girl, pathetic.",gender,bullying
+394,"Women can’t play this game, go to the kitchen.",gender,bullying
+395,"You speak funny, learn proper English.",ethnicity,bullying
+396,We don’t want your religious nonsense.,religion,bullying
+397,"You’re such a loser, go away.",other_cyberbullying,bullying
+398,Girls don’t belong in tech.,gender,bullying
+399,"You throw like a girl, pathetic.",gender,bullying
+400,"You’re so ugly, nobody likes you.",appearance,bullying
+401,Your faith makes no sense at all.,religion,bullying
+402,No one wants your kind here.,ethnicity,bullying
+403,"You’re too old for this app, grandpa.",age,bullying
+404,Nobody listens to old people anymore.,age,bullying
+405,"That movie was amazing, I highly recommend it.",not_cyberbullying,not_cyberbullying
+406,Have a great day ahead!,not_cyberbullying,not_cyberbullying
+407,People like you should not be allowed here.,religion,bullying
+408,"You throw like a girl, pathetic.",gender,bullying
+409,"You play like trash, no skills at all.",other_cyberbullying,bullying
+410,"Congrats on your promotion, well deserved!",not_cyberbullying,not_cyberbullying
+411,"Men are always stronger, you’re weak.",gender,bullying
+412,"Go play with your toys, child.",age,bullying
+413,Girls don’t belong in tech.,gender,bullying
+414,"You’re such a loser, go away.",other_cyberbullying,bullying
+415,"You speak funny, learn proper English.",ethnicity,bullying
+416,Your religion is a joke.,religion,bullying
+417,Your religion is a joke.,religion,bullying
+418,"That movie was amazing, I highly recommend it.",not_cyberbullying,not_cyberbullying
+419,"That movie was amazing, I highly recommend it.",not_cyberbullying,not_cyberbullying
+420,Your religion is a joke.,religion,bullying
+421,"Men are always stronger, you’re weak.",gender,bullying
+422,Your style is trash.,appearance,bullying
+423,Your religion is a joke.,religion,bullying
+424,"You speak funny, learn proper English.",ethnicity,bullying
+425,"Congrats on your promotion, well deserved!",not_cyberbullying,not_cyberbullying
+426,"Congrats on your promotion, well deserved!",not_cyberbullying,not_cyberbullying
+427,No guy would ever want you.,gender,bullying
+428,"Stop spreading your beliefs, nobody cares.",religion,bullying
+429,Your faith makes no sense at all.,religion,bullying
+430,Your style is trash.,appearance,bullying
+431,"You throw like a girl, pathetic.",gender,bullying
+432,"Go play with your toys, child.",age,bullying
+433,"You speak funny, learn proper English.",ethnicity,bullying
+434,Stop acting superior just because of your race.,ethnicity,bullying
+435,Have a great day ahead!,not_cyberbullying,not_cyberbullying
+436,"You’re ancient, stop embarrassing yourself.",age,bullying
+437,"Men are always stronger, you’re weak.",gender,bullying
+438,You’re the dumbest person I’ve ever met.,other_cyberbullying,bullying
+439,Have a great day ahead!,not_cyberbullying,not_cyberbullying
+440,"You play like trash, no skills at all.",other_cyberbullying,bullying
+441,"Women can’t play this game, go to the kitchen.",gender,bullying
+442,People like you should not be allowed here.,religion,bullying
+443,Girls don’t belong in tech.,gender,bullying
+444,People like you ruin this nation.,ethnicity,bullying
+445,"You’re such a loser, go away.",other_cyberbullying,bullying
+446,"Stop posting nonsense, nobody likes you.",other_cyberbullying,bullying
+447,No guy would ever want you.,gender,bullying
+448,"No wonder you’re alone, you’re hideous.",appearance,bullying
+449,"You speak funny, learn proper English.",ethnicity,bullying
+450,Stop acting superior just because of your race.,ethnicity,bullying
+451,You’re the dumbest person I’ve ever met.,other_cyberbullying,bullying
+452,"You play like trash, no skills at all.",other_cyberbullying,bullying
+453,"You throw like a girl, pathetic.",gender,bullying
+454,"I love this new song, it's so catchy.",not_cyberbullying,not_cyberbullying
+455,Nobody listens to old people anymore.,age,bullying
+456,"I love this new song, it's so catchy.",not_cyberbullying,not_cyberbullying
+457,"You speak funny, learn proper English.",ethnicity,bullying
+458,You’re fat and gross.,appearance,bullying
+459,"You’re ancient, stop embarrassing yourself.",age,bullying
+460,"You speak funny, learn proper English.",ethnicity,bullying
+461,"You speak funny, learn proper English.",ethnicity,bullying
+462,"You speak funny, learn proper English.",ethnicity,bullying
+463,"You speak funny, learn proper English.",ethnicity,bullying
+464,People like you ruin this nation.,ethnicity,bullying
+465,We don’t want your religious nonsense.,religion,bullying
+466,Girls don’t belong in tech.,gender,bullying
+467,"Women can’t play this game, go to the kitchen.",gender,bullying
+468,No guy would ever want you.,gender,bullying
+469,"Stop posting nonsense, nobody likes you.",other_cyberbullying,bullying
+470,"Go play with your toys, child.",age,bullying
+471,"You’re so ugly, nobody likes you.",appearance,bullying
+472,"Men are always stronger, you’re weak.",gender,bullying
+473,"Look at your face, disgusting.",appearance,bullying
+474,"Look at your face, disgusting.",appearance,bullying
+475,People like you ruin this nation.,ethnicity,bullying
+476,Your religion is a joke.,religion,bullying
+477,"You’re too old for this app, grandpa.",age,bullying
+478,"Stop posting nonsense, nobody likes you.",other_cyberbullying,bullying
+479,"Go back to your country, you don’t belong here.",ethnicity,bullying
+480,Have a great day ahead!,not_cyberbullying,not_cyberbullying
+481,"I love this new song, it's so catchy.",not_cyberbullying,not_cyberbullying
+482,Nobody cares about your opinion.,other_cyberbullying,bullying
+483,"Go back to your country, you don’t belong here.",ethnicity,bullying
+484,Girls don’t belong in tech.,gender,bullying
+485,"You throw like a girl, pathetic.",gender,bullying
+486,No guy would ever want you.,gender,bullying
+487,"I love this new song, it's so catchy.",not_cyberbullying,not_cyberbullying
+488,You’re the dumbest person I’ve ever met.,other_cyberbullying,bullying
+489,People like you should not be allowed here.,religion,bullying
+490,Nobody cares about your opinion.,other_cyberbullying,bullying
+491,"I love this new song, it's so catchy.",not_cyberbullying,not_cyberbullying
+492,"That movie was amazing, I highly recommend it.",not_cyberbullying,not_cyberbullying
+493,You’re fat and gross.,appearance,bullying
+494,"Go back to your country, you don’t belong here.",ethnicity,bullying
+495,"You’re ancient, stop embarrassing yourself.",age,bullying
+496,You’re the dumbest person I’ve ever met.,other_cyberbullying,bullying
+497,"You’re such a loser, go away.",other_cyberbullying,bullying
+498,No guy would ever want you.,gender,bullying
+499,"You throw like a girl, pathetic.",gender,bullying
+500,Your religion is a joke.,religion,bullying
+501,Kids these days are so dumb.,age,bullying
+502,You’re fat and gross.,appearance,bullying
+503,"You play like trash, no skills at all.",other_cyberbullying,bullying
+504,People like you ruin this nation.,ethnicity,bullying
+505,"Men are always stronger, you’re weak.",gender,bullying
+506,Have a great day ahead!,not_cyberbullying,not_cyberbullying
+507,Girls don’t belong in tech.,gender,bullying
+508,No one wants your kind here.,ethnicity,bullying
+509,We don’t want your religious nonsense.,religion,bullying
+510,We don’t want your religious nonsense.,religion,bullying
+511,"You play like trash, no skills at all.",other_cyberbullying,bullying
+512,"Congrats on your promotion, well deserved!",not_cyberbullying,not_cyberbullying
+513,Kids these days are so dumb.,age,bullying
+514,Your style is trash.,appearance,bullying
+515,Have a great day ahead!,not_cyberbullying,not_cyberbullying
+516,Have a great day ahead!,not_cyberbullying,not_cyberbullying
+517,Girls don’t belong in tech.,gender,bullying
+518,"That movie was amazing, I highly recommend it.",not_cyberbullying,not_cyberbullying
+519,Have a great day ahead!,not_cyberbullying,not_cyberbullying
+520,No one wants your kind here.,ethnicity,bullying
+521,"Stop spreading your beliefs, nobody cares.",religion,bullying
+522,"That movie was amazing, I highly recommend it.",not_cyberbullying,not_cyberbullying
+523,"You’re such a loser, go away.",other_cyberbullying,bullying
+524,Good morning everyone! Stay positive today 😊,not_cyberbullying,not_cyberbullying
+525,No guy would ever want you.,gender,bullying
+526,"Go play with your toys, child.",age,bullying
+527,"You’re ancient, stop embarrassing yourself.",age,bullying
+528,Your style is trash.,appearance,bullying
+529,Stop acting superior just because of your race.,ethnicity,bullying
+530,"You’re ancient, stop embarrassing yourself.",age,bullying
+531,Your religion is a joke.,religion,bullying
+532,"You speak funny, learn proper English.",ethnicity,bullying
+533,"Go play with your toys, child.",age,bullying
+534,"Stop spreading your beliefs, nobody cares.",religion,bullying
+535,Girls don’t belong in tech.,gender,bullying
+536,"Look at your face, disgusting.",appearance,bullying
+537,People like you ruin this nation.,ethnicity,bullying
+538,Your religion is a joke.,religion,bullying
+539,We don’t want your religious nonsense.,religion,bullying
+540,"I love this new song, it's so catchy.",not_cyberbullying,not_cyberbullying
+541,People like you should not be allowed here.,religion,bullying
+542,Your faith makes no sense at all.,religion,bullying
+543,"Go back to your country, you don’t belong here.",ethnicity,bullying
+544,No one wants your kind here.,ethnicity,bullying
+545,People like you ruin this nation.,ethnicity,bullying
+546,"Congrats on your promotion, well deserved!",not_cyberbullying,not_cyberbullying
+547,"Go back to your country, you don’t belong here.",ethnicity,bullying
+548,"You speak funny, learn proper English.",ethnicity,bullying
+549,"Men are always stronger, you’re weak.",gender,bullying
+550,"You’re too old for this app, grandpa.",age,bullying
+551,"You’re ancient, stop embarrassing yourself.",age,bullying
+552,Have a great day ahead!,not_cyberbullying,not_cyberbullying
+553,"You’re ancient, stop embarrassing yourself.",age,bullying
+554,We don’t want your religious nonsense.,religion,bullying
+555,Have a great day ahead!,not_cyberbullying,not_cyberbullying
+556,"Look at your face, disgusting.",appearance,bullying
+557,People like you should not be allowed here.,religion,bullying
+558,Your religion is a joke.,religion,bullying
+559,"Congrats on your promotion, well deserved!",not_cyberbullying,not_cyberbullying
+560,"Look at your face, disgusting.",appearance,bullying
+561,No guy would ever want you.,gender,bullying
+562,"You’re such a loser, go away.",other_cyberbullying,bullying
+563,"You play like trash, no skills at all.",other_cyberbullying,bullying
+564,"You play like trash, no skills at all.",other_cyberbullying,bullying
+565,Kids these days are so dumb.,age,bullying
+566,Your style is trash.,appearance,bullying
+567,"You’re so ugly, nobody likes you.",appearance,bullying
+568,"Look at your face, disgusting.",appearance,bullying
+569,"I love this new song, it's so catchy.",not_cyberbullying,not_cyberbullying
+570,Your religion is a joke.,religion,bullying
+571,"Men are always stronger, you’re weak.",gender,bullying
+572,"You’re such a loser, go away.",other_cyberbullying,bullying
+573,Your faith makes no sense at all.,religion,bullying
+574,"Men are always stronger, you’re weak.",gender,bullying
+575,"Look at your face, disgusting.",appearance,bullying
+576,"That movie was amazing, I highly recommend it.",not_cyberbullying,not_cyberbullying
+577,"Stop posting nonsense, nobody likes you.",other_cyberbullying,bullying
+578,Kids these days are so dumb.,age,bullying
+579,You’re fat and gross.,appearance,bullying
+580,Girls don’t belong in tech.,gender,bullying
+581,"Congrats on your promotion, well deserved!",not_cyberbullying,not_cyberbullying
+582,"Go play with your toys, child.",age,bullying
+583,You’re the dumbest person I’ve ever met.,other_cyberbullying,bullying
+584,"You’re too old for this app, grandpa.",age,bullying
+585,No guy would ever want you.,gender,bullying
+586,Your faith makes no sense at all.,religion,bullying
+587,"Women can’t play this game, go to the kitchen.",gender,bullying
+588,"That movie was amazing, I highly recommend it.",not_cyberbullying,not_cyberbullying
+589,We don’t want your religious nonsense.,religion,bullying
+590,"You play like trash, no skills at all.",other_cyberbullying,bullying
+591,You’re fat and gross.,appearance,bullying
+592,Good morning everyone! Stay positive today 😊,not_cyberbullying,not_cyberbullying
+593,"No wonder you’re alone, you’re hideous.",appearance,bullying
+594,"Look at your face, disgusting.",appearance,bullying
+595,Nobody listens to old people anymore.,age,bullying
+596,"Go back to your country, you don’t belong here.",ethnicity,bullying
+597,Have a great day ahead!,not_cyberbullying,not_cyberbullying
+598,People like you ruin this nation.,ethnicity,bullying
+599,"You’re so ugly, nobody likes you.",appearance,bullying
+600,"Congrats on your promotion, well deserved!",not_cyberbullying,not_cyberbullying
+601,Have a great day ahead!,not_cyberbullying,not_cyberbullying
+602,"Stop posting nonsense, nobody likes you.",other_cyberbullying,bullying
+603,"You speak funny, learn proper English.",ethnicity,bullying
+604,"That movie was amazing, I highly recommend it.",not_cyberbullying,not_cyberbullying
+605,"You play like trash, no skills at all.",other_cyberbullying,bullying
+606,"You play like trash, no skills at all.",other_cyberbullying,bullying
+607,"Go play with your toys, child.",age,bullying
+608,"Stop posting nonsense, nobody likes you.",other_cyberbullying,bullying
+609,Kids these days are so dumb.,age,bullying
+610,"Congrats on your promotion, well deserved!",not_cyberbullying,not_cyberbullying
+611,You’re the dumbest person I’ve ever met.,other_cyberbullying,bullying
+612,Nobody listens to old people anymore.,age,bullying
+613,"Go play with your toys, child.",age,bullying
+614,"Stop spreading your beliefs, nobody cares.",religion,bullying
+615,"I love this new song, it's so catchy.",not_cyberbullying,not_cyberbullying
+616,"You’re ancient, stop embarrassing yourself.",age,bullying
+617,Girls don’t belong in tech.,gender,bullying
+618,Your religion is a joke.,religion,bullying
+619,Girls don’t belong in tech.,gender,bullying
+620,"Congrats on your promotion, well deserved!",not_cyberbullying,not_cyberbullying
+621,Nobody listens to old people anymore.,age,bullying
+622,"You’re ancient, stop embarrassing yourself.",age,bullying
+623,"I love this new song, it's so catchy.",not_cyberbullying,not_cyberbullying
+624,Good morning everyone! Stay positive today 😊,not_cyberbullying,not_cyberbullying
+625,"I love this new song, it's so catchy.",not_cyberbullying,not_cyberbullying
+626,"Women can’t play this game, go to the kitchen.",gender,bullying
+627,Your religion is a joke.,religion,bullying
+628,People like you ruin this nation.,ethnicity,bullying
+629,We don’t want your religious nonsense.,religion,bullying
+630,"You’re so ugly, nobody likes you.",appearance,bullying
+631,"No wonder you’re alone, you’re hideous.",appearance,bullying
+632,"You speak funny, learn proper English.",ethnicity,bullying
+633,We don’t want your religious nonsense.,religion,bullying
+634,You’re the dumbest person I’ve ever met.,other_cyberbullying,bullying
+635,"You speak funny, learn proper English.",ethnicity,bullying
+636,Nobody listens to old people anymore.,age,bullying
+637,Your faith makes no sense at all.,religion,bullying
+638,"Look at your face, disgusting.",appearance,bullying
+639,"You’re so ugly, nobody likes you.",appearance,bullying
+640,"You’re too old for this app, grandpa.",age,bullying
+641,"I love this new song, it's so catchy.",not_cyberbullying,not_cyberbullying
+642,"Go play with your toys, child.",age,bullying
+643,"Stop posting nonsense, nobody likes you.",other_cyberbullying,bullying
+644,"You’re so ugly, nobody likes you.",appearance,bullying
+645,People like you should not be allowed here.,religion,bullying
+646,"No wonder you’re alone, you’re hideous.",appearance,bullying
+647,"Go back to your country, you don’t belong here.",ethnicity,bullying
+648,"Go back to your country, you don’t belong here.",ethnicity,bullying
+649,"You speak funny, learn proper English.",ethnicity,bullying
+650,Your faith makes no sense at all.,religion,bullying
+651,No guy would ever want you.,gender,bullying
+652,Kids these days are so dumb.,age,bullying
+653,"Women can’t play this game, go to the kitchen.",gender,bullying
+654,Good morning everyone! Stay positive today 😊,not_cyberbullying,not_cyberbullying
+655,You’re fat and gross.,appearance,bullying
+656,"You throw like a girl, pathetic.",gender,bullying
+657,No guy would ever want you.,gender,bullying
+658,"Congrats on your promotion, well deserved!",not_cyberbullying,not_cyberbullying
+659,Girls don’t belong in tech.,gender,bullying
+660,"Women can’t play this game, go to the kitchen.",gender,bullying
+661,"Look at your face, disgusting.",appearance,bullying
+662,"Go back to your country, you don’t belong here.",ethnicity,bullying
+663,Nobody cares about your opinion.,other_cyberbullying,bullying
+664,"Congrats on your promotion, well deserved!",not_cyberbullying,not_cyberbullying
+665,"I love this new song, it's so catchy.",not_cyberbullying,not_cyberbullying
+666,"Stop spreading your beliefs, nobody cares.",religion,bullying
+667,"You’re ancient, stop embarrassing yourself.",age,bullying
+668,Good morning everyone! Stay positive today 😊,not_cyberbullying,not_cyberbullying
+669,Your faith makes no sense at all.,religion,bullying
+670,Kids these days are so dumb.,age,bullying
+671,Good morning everyone! Stay positive today 😊,not_cyberbullying,not_cyberbullying
+672,People like you should not be allowed here.,religion,bullying
+673,"You’re too old for this app, grandpa.",age,bullying
+674,"You’re too old for this app, grandpa.",age,bullying
+675,"Congrats on your promotion, well deserved!",not_cyberbullying,not_cyberbullying
+676,No guy would ever want you.,gender,bullying
+677,"You play like trash, no skills at all.",other_cyberbullying,bullying
+678,"Go back to your country, you don’t belong here.",ethnicity,bullying
+679,"You’re ancient, stop embarrassing yourself.",age,bullying
+680,"Men are always stronger, you’re weak.",gender,bullying
+681,People like you should not be allowed here.,religion,bullying
+682,"You’re so ugly, nobody likes you.",appearance,bullying
+683,Stop acting superior just because of your race.,ethnicity,bullying
+684,"You’re such a loser, go away.",other_cyberbullying,bullying
+685,Nobody listens to old people anymore.,age,bullying
+686,"You speak funny, learn proper English.",ethnicity,bullying
+687,You’re fat and gross.,appearance,bullying
+688,"You’re so ugly, nobody likes you.",appearance,bullying
+689,"Stop spreading your beliefs, nobody cares.",religion,bullying
+690,Have a great day ahead!,not_cyberbullying,not_cyberbullying
+691,"That movie was amazing, I highly recommend it.",not_cyberbullying,not_cyberbullying
+692,"Look at your face, disgusting.",appearance,bullying
+693,"You’re such a loser, go away.",other_cyberbullying,bullying
+694,We don’t want your religious nonsense.,religion,bullying
+695,"Men are always stronger, you’re weak.",gender,bullying
+696,Kids these days are so dumb.,age,bullying
+697,"You play like trash, no skills at all.",other_cyberbullying,bullying
+698,"Congrats on your promotion, well deserved!",not_cyberbullying,not_cyberbullying
+699,Stop acting superior just because of your race.,ethnicity,bullying
+700,Girls don’t belong in tech.,gender,bullying
+701,No guy would ever want you.,gender,bullying
+702,People like you should not be allowed here.,religion,bullying
+703,No one wants your kind here.,ethnicity,bullying
+704,Nobody listens to old people anymore.,age,bullying
+705,"You throw like a girl, pathetic.",gender,bullying
+706,"Men are always stronger, you’re weak.",gender,bullying
+707,"Look at your face, disgusting.",appearance,bullying
+708,People like you ruin this nation.,ethnicity,bullying
+709,Good morning everyone! Stay positive today 😊,not_cyberbullying,not_cyberbullying
+710,"Look at your face, disgusting.",appearance,bullying
+711,"I love this new song, it's so catchy.",not_cyberbullying,not_cyberbullying
+712,"You throw like a girl, pathetic.",gender,bullying
+713,"You’re too old for this app, grandpa.",age,bullying
+714,"Congrats on your promotion, well deserved!",not_cyberbullying,not_cyberbullying
+715,Nobody listens to old people anymore.,age,bullying
+716,No guy would ever want you.,gender,bullying
+717,"Look at your face, disgusting.",appearance,bullying
+718,"Congrats on your promotion, well deserved!",not_cyberbullying,not_cyberbullying
+719,Your religion is a joke.,religion,bullying
+720,"You’re such a loser, go away.",other_cyberbullying,bullying
+721,"You play like trash, no skills at all.",other_cyberbullying,bullying
+722,No one wants your kind here.,ethnicity,bullying
+723,People like you should not be allowed here.,religion,bullying
+724,"No wonder you’re alone, you’re hideous.",appearance,bullying
+725,"That movie was amazing, I highly recommend it.",not_cyberbullying,not_cyberbullying
+726,"Stop posting nonsense, nobody likes you.",other_cyberbullying,bullying
+727,Your faith makes no sense at all.,religion,bullying
+728,Kids these days are so dumb.,age,bullying
+729,Nobody cares about your opinion.,other_cyberbullying,bullying
+730,"You play like trash, no skills at all.",other_cyberbullying,bullying
+731,People like you ruin this nation.,ethnicity,bullying
+732,No one wants your kind here.,ethnicity,bullying
+733,No guy would ever want you.,gender,bullying
+734,"Men are always stronger, you’re weak.",gender,bullying
+735,Nobody listens to old people anymore.,age,bullying
+736,"You’re too old for this app, grandpa.",age,bullying
+737,Good morning everyone! Stay positive today 😊,not_cyberbullying,not_cyberbullying
+738,"Men are always stronger, you’re weak.",gender,bullying
+739,Your style is trash.,appearance,bullying
+740,"You speak funny, learn proper English.",ethnicity,bullying
+741,Good morning everyone! Stay positive today 😊,not_cyberbullying,not_cyberbullying
+742,Stop acting superior just because of your race.,ethnicity,bullying
+743,"You throw like a girl, pathetic.",gender,bullying
+744,"Men are always stronger, you’re weak.",gender,bullying
+745,People like you should not be allowed here.,religion,bullying
+746,"You’re such a loser, go away.",other_cyberbullying,bullying
+747,Nobody cares about your opinion.,other_cyberbullying,bullying
+748,People like you ruin this nation.,ethnicity,bullying
+749,"Congrats on your promotion, well deserved!",not_cyberbullying,not_cyberbullying
+750,"You play like trash, no skills at all.",other_cyberbullying,bullying
+751,Nobody cares about your opinion.,other_cyberbullying,bullying
+752,"I love this new song, it's so catchy.",not_cyberbullying,not_cyberbullying
+753,Your religion is a joke.,religion,bullying
+754,"Go play with your toys, child.",age,bullying
+755,"Look at your face, disgusting.",appearance,bullying
+756,No one wants your kind here.,ethnicity,bullying
+757,Stop acting superior just because of your race.,ethnicity,bullying
+758,You’re the dumbest person I’ve ever met.,other_cyberbullying,bullying
+759,Nobody listens to old people anymore.,age,bullying
+760,No guy would ever want you.,gender,bullying
+761,Stop acting superior just because of your race.,ethnicity,bullying
+762,Stop acting superior just because of your race.,ethnicity,bullying
+763,"You’re ancient, stop embarrassing yourself.",age,bullying
+764,"Stop posting nonsense, nobody likes you.",other_cyberbullying,bullying
+765,"No wonder you’re alone, you’re hideous.",appearance,bullying
+766,"You play like trash, no skills at all.",other_cyberbullying,bullying
+767,No one wants your kind here.,ethnicity,bullying
+768,"You throw like a girl, pathetic.",gender,bullying
+769,Stop acting superior just because of your race.,ethnicity,bullying
+770,No one wants your kind here.,ethnicity,bullying
+771,Nobody cares about your opinion.,other_cyberbullying,bullying
+772,"I love this new song, it's so catchy.",not_cyberbullying,not_cyberbullying
+773,Your faith makes no sense at all.,religion,bullying
+774,"You play like trash, no skills at all.",other_cyberbullying,bullying
+775,"You speak funny, learn proper English.",ethnicity,bullying
+776,Nobody listens to old people anymore.,age,bullying
+777,"Stop spreading your beliefs, nobody cares.",religion,bullying
+778,"You’re so ugly, nobody likes you.",appearance,bullying
+779,"Men are always stronger, you’re weak.",gender,bullying
+780,Your religion is a joke.,religion,bullying
+781,Stop acting superior just because of your race.,ethnicity,bullying
+782,Your faith makes no sense at all.,religion,bullying
+783,"You’re so ugly, nobody likes you.",appearance,bullying
+784,Kids these days are so dumb.,age,bullying
+785,Your religion is a joke.,religion,bullying
+786,"You speak funny, learn proper English.",ethnicity,bullying
+787,"You’re too old for this app, grandpa.",age,bullying
+788,"That movie was amazing, I highly recommend it.",not_cyberbullying,not_cyberbullying
+789,"You play like trash, no skills at all.",other_cyberbullying,bullying
+790,"You’re too old for this app, grandpa.",age,bullying
+791,"No wonder you’re alone, you’re hideous.",appearance,bullying
+792,"No wonder you’re alone, you’re hideous.",appearance,bullying
+793,Nobody listens to old people anymore.,age,bullying
+794,Nobody listens to old people anymore.,age,bullying
+795,Have a great day ahead!,not_cyberbullying,not_cyberbullying
+796,No guy would ever want you.,gender,bullying
+797,"I love this new song, it's so catchy.",not_cyberbullying,not_cyberbullying
+798,Kids these days are so dumb.,age,bullying
+799,"Stop spreading your beliefs, nobody cares.",religion,bullying
+800,"You’re ancient, stop embarrassing yourself.",age,bullying
+801,Stop acting superior just because of your race.,ethnicity,bullying
+802,"You’re too old for this app, grandpa.",age,bullying
+803,"You throw like a girl, pathetic.",gender,bullying
+804,Girls don’t belong in tech.,gender,bullying
+805,"You speak funny, learn proper English.",ethnicity,bullying
+806,"Look at your face, disgusting.",appearance,bullying
+807,Kids these days are so dumb.,age,bullying
+808,People like you ruin this nation.,ethnicity,bullying
+809,"You’re ancient, stop embarrassing yourself.",age,bullying
+810,You’re fat and gross.,appearance,bullying
+811,"Stop spreading your beliefs, nobody cares.",religion,bullying
+812,No one wants your kind here.,ethnicity,bullying
+813,"Congrats on your promotion, well deserved!",not_cyberbullying,not_cyberbullying
+814,"You’re ancient, stop embarrassing yourself.",age,bullying
+815,"Stop spreading your beliefs, nobody cares.",religion,bullying
+816,"Stop posting nonsense, nobody likes you.",other_cyberbullying,bullying
+817,"Stop posting nonsense, nobody likes you.",other_cyberbullying,bullying
+818,"You’re too old for this app, grandpa.",age,bullying
+819,"No wonder you’re alone, you’re hideous.",appearance,bullying
+820,"You’re such a loser, go away.",other_cyberbullying,bullying
+821,You’re the dumbest person I’ve ever met.,other_cyberbullying,bullying
+822,"You’re too old for this app, grandpa.",age,bullying
+823,"Men are always stronger, you’re weak.",gender,bullying
+824,Your faith makes no sense at all.,religion,bullying
+825,"Stop spreading your beliefs, nobody cares.",religion,bullying
+826,"Stop posting nonsense, nobody likes you.",other_cyberbullying,bullying
+827,Have a great day ahead!,not_cyberbullying,not_cyberbullying
+828,Your style is trash.,appearance,bullying
+829,Stop acting superior just because of your race.,ethnicity,bullying
+830,"Stop posting nonsense, nobody likes you.",other_cyberbullying,bullying
+831,"You’re such a loser, go away.",other_cyberbullying,bullying
+832,Good morning everyone! Stay positive today 😊,not_cyberbullying,not_cyberbullying
+833,"Stop spreading your beliefs, nobody cares.",religion,bullying
+834,Nobody listens to old people anymore.,age,bullying
+835,People like you should not be allowed here.,religion,bullying
+836,Nobody listens to old people anymore.,age,bullying
+837,You’re the dumbest person I’ve ever met.,other_cyberbullying,bullying
+838,Nobody listens to old people anymore.,age,bullying
+839,You’re fat and gross.,appearance,bullying
+840,You’re fat and gross.,appearance,bullying
+841,Kids these days are so dumb.,age,bullying
+842,Nobody cares about your opinion.,other_cyberbullying,bullying
+843,"I love this new song, it's so catchy.",not_cyberbullying,not_cyberbullying
+844,No guy would ever want you.,gender,bullying
+845,Your faith makes no sense at all.,religion,bullying
+846,"Stop posting nonsense, nobody likes you.",other_cyberbullying,bullying
+847,"You speak funny, learn proper English.",ethnicity,bullying
+848,We don’t want your religious nonsense.,religion,bullying
+849,Girls don’t belong in tech.,gender,bullying
+850,No guy would ever want you.,gender,bullying
+851,"You speak funny, learn proper English.",ethnicity,bullying
+852,"Women can’t play this game, go to the kitchen.",gender,bullying
+853,Nobody cares about your opinion.,other_cyberbullying,bullying
+854,"Go play with your toys, child.",age,bullying
+855,Your religion is a joke.,religion,bullying
+856,Nobody cares about your opinion.,other_cyberbullying,bullying
+857,"Stop spreading your beliefs, nobody cares.",religion,bullying
+858,You’re fat and gross.,appearance,bullying
+859,Girls don’t belong in tech.,gender,bullying
+860,Girls don’t belong in tech.,gender,bullying
+861,You’re fat and gross.,appearance,bullying
+862,We don’t want your religious nonsense.,religion,bullying
+863,"I love this new song, it's so catchy.",not_cyberbullying,not_cyberbullying
+864,"Go back to your country, you don’t belong here.",ethnicity,bullying
+865,Nobody listens to old people anymore.,age,bullying
+866,Your religion is a joke.,religion,bullying
+867,"You’re so ugly, nobody likes you.",appearance,bullying
+868,"I love this new song, it's so catchy.",not_cyberbullying,not_cyberbullying
+869,"You play like trash, no skills at all.",other_cyberbullying,bullying
+870,We don’t want your religious nonsense.,religion,bullying
+871,No guy would ever want you.,gender,bullying
+872,"You play like trash, no skills at all.",other_cyberbullying,bullying
+873,"I love this new song, it's so catchy.",not_cyberbullying,not_cyberbullying
+874,"Stop spreading your beliefs, nobody cares.",religion,bullying
+875,Have a great day ahead!,not_cyberbullying,not_cyberbullying
+876,"You speak funny, learn proper English.",ethnicity,bullying
+877,"You’re so ugly, nobody likes you.",appearance,bullying
+878,"Go back to your country, you don’t belong here.",ethnicity,bullying
+879,"You throw like a girl, pathetic.",gender,bullying
+880,"No wonder you’re alone, you’re hideous.",appearance,bullying
+881,"You’re too old for this app, grandpa.",age,bullying
+882,Girls don’t belong in tech.,gender,bullying
+883,Nobody listens to old people anymore.,age,bullying
+884,"Stop posting nonsense, nobody likes you.",other_cyberbullying,bullying
+885,"You’re so ugly, nobody likes you.",appearance,bullying
+886,Nobody cares about your opinion.,other_cyberbullying,bullying
+887,Your religion is a joke.,religion,bullying
+888,We don’t want your religious nonsense.,religion,bullying
+889,Kids these days are so dumb.,age,bullying
+890,"You’re too old for this app, grandpa.",age,bullying
+891,"Congrats on your promotion, well deserved!",not_cyberbullying,not_cyberbullying
+892,Nobody cares about your opinion.,other_cyberbullying,bullying
+893,"Stop spreading your beliefs, nobody cares.",religion,bullying
+894,"You throw like a girl, pathetic.",gender,bullying
+895,Stop acting superior just because of your race.,ethnicity,bullying
+896,"Stop posting nonsense, nobody likes you.",other_cyberbullying,bullying
+897,People like you should not be allowed here.,religion,bullying
+898,"You’re too old for this app, grandpa.",age,bullying
+899,No guy would ever want you.,gender,bullying
+900,Kids these days are so dumb.,age,bullying
+901,People like you ruin this nation.,ethnicity,bullying
+902,Good morning everyone! Stay positive today 😊,not_cyberbullying,not_cyberbullying
+903,"Men are always stronger, you’re weak.",gender,bullying
+904,Kids these days are so dumb.,age,bullying
+905,"Go back to your country, you don’t belong here.",ethnicity,bullying
+906,"You’re too old for this app, grandpa.",age,bullying
+907,"Go back to your country, you don’t belong here.",ethnicity,bullying
+908,"You speak funny, learn proper English.",ethnicity,bullying
+909,"Congrats on your promotion, well deserved!",not_cyberbullying,not_cyberbullying
+910,"You speak funny, learn proper English.",ethnicity,bullying
+911,Good morning everyone! Stay positive today 😊,not_cyberbullying,not_cyberbullying
+912,You’re the dumbest person I’ve ever met.,other_cyberbullying,bullying
+913,"Go play with your toys, child.",age,bullying
+914,You’re fat and gross.,appearance,bullying
+915,Your religion is a joke.,religion,bullying
+916,"Stop posting nonsense, nobody likes you.",other_cyberbullying,bullying
+917,You’re the dumbest person I’ve ever met.,other_cyberbullying,bullying
+918,Your style is trash.,appearance,bullying
+919,Girls don’t belong in tech.,gender,bullying
+920,Your faith makes no sense at all.,religion,bullying
+921,Your faith makes no sense at all.,religion,bullying
+922,"Go back to your country, you don’t belong here.",ethnicity,bullying
+923,Nobody listens to old people anymore.,age,bullying
+924,Your style is trash.,appearance,bullying
+925,People like you ruin this nation.,ethnicity,bullying
+926,Good morning everyone! Stay positive today 😊,not_cyberbullying,not_cyberbullying
+927,You’re the dumbest person I’ve ever met.,other_cyberbullying,bullying
+928,"You throw like a girl, pathetic.",gender,bullying
+929,"You’re too old for this app, grandpa.",age,bullying
+930,"I love this new song, it's so catchy.",not_cyberbullying,not_cyberbullying
+931,No one wants your kind here.,ethnicity,bullying
+932,People like you ruin this nation.,ethnicity,bullying
+933,Good morning everyone! Stay positive today 😊,not_cyberbullying,not_cyberbullying
+934,"You’re so ugly, nobody likes you.",appearance,bullying
+935,"I love this new song, it's so catchy.",not_cyberbullying,not_cyberbullying
+936,Stop acting superior just because of your race.,ethnicity,bullying
+937,People like you should not be allowed here.,religion,bullying
+938,"I love this new song, it's so catchy.",not_cyberbullying,not_cyberbullying
+939,Have a great day ahead!,not_cyberbullying,not_cyberbullying
+940,Your style is trash.,appearance,bullying
+941,No guy would ever want you.,gender,bullying
+942,"You’re such a loser, go away.",other_cyberbullying,bullying
+943,Stop acting superior just because of your race.,ethnicity,bullying
+944,"Look at your face, disgusting.",appearance,bullying
+945,Have a great day ahead!,not_cyberbullying,not_cyberbullying
+946,"You throw like a girl, pathetic.",gender,bullying
+947,You’re the dumbest person I’ve ever met.,other_cyberbullying,bullying
+948,"Look at your face, disgusting.",appearance,bullying
+949,"Stop spreading your beliefs, nobody cares.",religion,bullying
+950,"You’re so ugly, nobody likes you.",appearance,bullying
+951,Your faith makes no sense at all.,religion,bullying
+952,Your style is trash.,appearance,bullying
+953,Your faith makes no sense at all.,religion,bullying
+954,"Stop spreading your beliefs, nobody cares.",religion,bullying
+955,Kids these days are so dumb.,age,bullying
+956,"Go play with your toys, child.",age,bullying
+957,"Congrats on your promotion, well deserved!",not_cyberbullying,not_cyberbullying
+958,"That movie was amazing, I highly recommend it.",not_cyberbullying,not_cyberbullying
+959,Kids these days are so dumb.,age,bullying
+960,"Congrats on your promotion, well deserved!",not_cyberbullying,not_cyberbullying
+961,"That movie was amazing, I highly recommend it.",not_cyberbullying,not_cyberbullying
+962,"You’re ancient, stop embarrassing yourself.",age,bullying
+963,We don’t want your religious nonsense.,religion,bullying
+964,"You’re so ugly, nobody likes you.",appearance,bullying
+965,"You’re such a loser, go away.",other_cyberbullying,bullying
+966,"Go back to your country, you don’t belong here.",ethnicity,bullying
+967,"No wonder you’re alone, you’re hideous.",appearance,bullying
+968,"I love this new song, it's so catchy.",not_cyberbullying,not_cyberbullying
+969,No one wants your kind here.,ethnicity,bullying
+970,"Look at your face, disgusting.",appearance,bullying
+971,No guy would ever want you.,gender,bullying
+972,Girls don’t belong in tech.,gender,bullying
+973,"Men are always stronger, you’re weak.",gender,bullying
+974,No one wants your kind here.,ethnicity,bullying
+975,"Men are always stronger, you’re weak.",gender,bullying
+976,Nobody listens to old people anymore.,age,bullying
+977,"Stop spreading your beliefs, nobody cares.",religion,bullying
+978,"You play like trash, no skills at all.",other_cyberbullying,bullying
+979,No one wants your kind here.,ethnicity,bullying
+980,"Look at your face, disgusting.",appearance,bullying
+981,Good morning everyone! Stay positive today 😊,not_cyberbullying,not_cyberbullying
+982,"Stop spreading your beliefs, nobody cares.",religion,bullying
+983,"I love this new song, it's so catchy.",not_cyberbullying,not_cyberbullying
+984,"Look at your face, disgusting.",appearance,bullying
+985,"I love this new song, it's so catchy.",not_cyberbullying,not_cyberbullying
+986,You’re fat and gross.,appearance,bullying
+987,You’re the dumbest person I’ve ever met.,other_cyberbullying,bullying
+988,Stop acting superior just because of your race.,ethnicity,bullying
+989,"Congrats on your promotion, well deserved!",not_cyberbullying,not_cyberbullying
+990,"That movie was amazing, I highly recommend it.",not_cyberbullying,not_cyberbullying
+991,"Go back to your country, you don’t belong here.",ethnicity,bullying
+992,Good morning everyone! Stay positive today 😊,not_cyberbullying,not_cyberbullying
+993,You’re the dumbest person I’ve ever met.,other_cyberbullying,bullying
+994,You’re fat and gross.,appearance,bullying
+995,"You’re ancient, stop embarrassing yourself.",age,bullying
+996,"You’re so ugly, nobody likes you.",appearance,bullying
+997,"You’re too old for this app, grandpa.",age,bullying
+998,Girls don’t belong in tech.,gender,bullying
+999,Your religion is a joke.,religion,bullying
+1000,Have a great day ahead!,not_cyberbullying,not_cyberbullying
